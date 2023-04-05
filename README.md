@@ -33,6 +33,5 @@ You are an adult<hr>
 <h1 align="center" >Acknowledgments📱:-</h1>
 
 - This program was created as a simple example of how to use if-elif-else statements in Python.
-
 <hr>
 
